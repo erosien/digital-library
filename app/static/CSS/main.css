@@ -1,0 +1,17 @@
+*,*:before,*::after{ 
+    padding: 0; 
+    margin: 0; 
+    box-sizing: inherit; 
+  }
+
+body {
+  padding-top: 50px;
+}
+
+.navbar {
+    background-color: rgb(65, 129, 233);
+}
+
+h1 {
+    color: rgb(65, 129, 233);
+}
